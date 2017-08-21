@@ -1,2 +1,2 @@
 # BubbyBilly
-voice and image recognition in iOS
+silly game made with my children
